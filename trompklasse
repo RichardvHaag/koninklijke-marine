@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Tromp-klasse</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="balk">
+<ul>
+<li><a href="index.html">Home </a></li>
+<li><a href="wo1.html">De Eerste Wereldoorlog </a></li>
+<li><a href="interbellum.html">Interbellum </a></li>
+<li><a href="wo2.html">De Tweede Wereldoorlog </a></li>
+</ul>
+</div>
+
+
+</body>
+</html>
